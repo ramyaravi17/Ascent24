@@ -1,0 +1,145 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color:rgb(235, 187, 125);
+}
+.nav{
+    border: 3px soild white;
+    background-color: white;
+    padding: 40px;
+    margin: 50px;
+    height: 1200px;
+    width: auto;
+}
+.nav2{
+    display: flex;
+    gap: 10px;
+    padding: 8px;
+    margin: 0px 0px 0px 160px;
+    margin-top: -30px;
+    
+}
+#navigation{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -100px;
+    margin-right: 50px;
+}
+
+.button{
+    border: 1px solid black;
+    height: 20px;
+    width: 60px;
+    margin: 12px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+   
+}
+img{
+    height: 30px;
+    width: 30px;
+    margin: 13px;
+}
+.content{
+    border: 1px solid black;
+    height: 400px;
+    width: 1070px;
+    margin-left: 50px;
+    margin-top: -20px;
+    border-radius: 19px;
+    background-color: rgb(224, 215, 233);
+    border: none;
+    padding-top: 60px;
+}
+#building{
+        height: 300px;
+        width: 750px;
+        margin-left: 320px;
+        margin-top: -150px;
+}
+.text{
+    margin-left: 120px;
+}
+.text h1{
+    font-size: 60px;
+    margin-top: -10px;
+}
+#arrow{
+    height: 60px;
+    width: 80px;
+    margin-left: -6px;
+}
+#cold{
+    margin-bottom: -10px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    width: 700px;
+    margin-left: 200px;
+    margin-top: -70px;
+    background-color: white;
+    position: absolute;
+    z-index: 2;
+    padding: 0px 0px 40px 70px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 15px 30px rgb(224, 215, 233);
+
+}
+#search2{
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.box h2{
+    border-bottom: 3px solid yellow;
+    width: 80px;
+}
+.container3{
+    margin-top: 160px;
+    margin-left: 50px;
+}
+#leftarrow{
+    width: 50px;
+    height: 35px;
+    margin-right: -700px;
+    margin-left: 500px;
+}
+.container3 img{
+    margin-left: 700px;
+}
+.rightleft{
+    margin-left: 400px;
+    margin-top: -65px;
+}
+.container4 img{
+
+       width: 300px;
+       height: 300px;
+}
+.container4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 16px;
+    
+}
+.container4 div{
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 10px 20px 10px rgb(224, 215, 233);
+    border: none;
+
+
+}
+.container4 h2{
+     text-align: center;
+}
